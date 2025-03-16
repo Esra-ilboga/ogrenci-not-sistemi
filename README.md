@@ -82,3 +82,4 @@ Bu fonksiyon, tüm değerlendirme sürecini birleştiren ana fonksiyondur. İlk 
 
 Program çalıştırıldığında aşağıdaki gibi bir çıktı üretilebilir:
 
+ ![Oyun Görüntüsü 1](not_ekran.png) 
